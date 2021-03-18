@@ -20,7 +20,7 @@ title                    : "C 프로그래밍"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "서원교"
-description              : "시스템 프로그램을 위한 C언어"
+description              : "용인한국외국어대학교부설고등학교 학생"
 url                      : "https://Seo-Won-Gyo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "won421lab/Seo-Won-Gyo.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
