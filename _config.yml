@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "서원교"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.PNG"
   bio              : "두 배로 노력하자"
   location         : "대한민국, 김포"
   email            : "21-20808@hafs.hs.kr"
